@@ -1,0 +1,31 @@
+---
+title: "Intro To R"
+author: "Karam"
+date: "December 3, 2015"
+output: html_document
+---
+
+## First addition in R
+### second Heading
+
+I am going to add two numbers in R
+
+```{r}
+2+2
+
+k=4
+k
+```
+
+
+
+```{r}
+pairs(mtcars)
+```
+
+```{r}
+ hist(mtcars$mpg)
+```
+
+
+

@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/132788/15de4adfdf474ebfb8e932bdcacaafa5
+url: http://rpubs.com/karamcse/132788
+when: 1449105901.71156
